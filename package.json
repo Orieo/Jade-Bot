@@ -1,0 +1,21 @@
+{
+  "name": "Jade-Bot",
+  "description": "My First Discord Bot",
+  "main": "index.js",
+  "author": "Orieo",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "node-gyp": "^3.8.0",
+    "opusscript": "0.0.6",
+    "yt-search": "^0.4.1",
+    "ytdl-core": "^0.29.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
